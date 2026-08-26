@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 15 | 9 |
+| 16 | 10 |
 
 ---
 
@@ -16,11 +16,12 @@
 - [constructive algorithms](#constructive-algorithms) (4)
 - [games](#games) (2)
 - [greedy](#greedy) (6)
-- [implementation](#implementation) (2)
+- [implementation](#implementation) (3)
 - [math](#math) (8)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (2)
 - [strings](#strings) (2)
+- [two pointers](#two-pointers) (1)
 
 ---
 
@@ -62,6 +63,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1690D | [Black and White Stripe](https://codeforces.com/contest/1690/problem/D) | 1000 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1690/D%20-%20Black%20and%20White%20Stripe/solution.cpp) |
 | 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1873/C%20-%20Target%20Practice/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 
@@ -98,6 +100,12 @@
 |---|---------|------------|----------|
 | 1881A | [Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1881/A%20-%20Don't%20Try%20to%20Count/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
+
+### two pointers
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1690D | [Black and White Stripe](https://codeforces.com/contest/1690/problem/D) | 1000 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1690/D%20-%20Black%20and%20White%20Stripe/solution.cpp) |
 
 ---
 
