@@ -6,26 +6,26 @@
 
 | Total Problems | Topics |
 |---|---|
-| 83 | 17 |
+| 84 | 17 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [binary search](#binary-search) (2)
+- [binary search](#binary-search) (3)
 - [bitmasks](#bitmasks) (4)
 - [brute force](#brute-force) (17)
 - [combinatorics](#combinatorics) (3)
-- [constructive algorithms](#constructive-algorithms) (21)
+- [constructive algorithms](#constructive-algorithms) (22)
 - [data structures](#data-structures) (2)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (2)
 - [games](#games) (3)
 - [geometry](#geometry) (2)
-- [greedy](#greedy) (38)
+- [greedy](#greedy) (39)
 - [implementation](#implementation) (19)
-- [math](#math) (43)
-- [number theory](#number-theory) (11)
+- [math](#math) (44)
+- [number theory](#number-theory) (12)
 - [sortings](#sortings) (10)
 - [strings](#strings) (7)
 - [two pointers](#two-pointers) (5)
@@ -36,6 +36,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.cpp) |
 | 1725B | [Basketball Together](https://codeforces.com/contest/1725/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1725/B%20-%20Basketball%20Together/solution.cpp) |
 | 1744C | [Traffic Light](https://codeforces.com/contest/1744/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1744/C%20-%20Traffic%20Light/solution.cpp) |
 
@@ -82,6 +83,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.cpp) |
 | 1537B | [Bad Boy](https://codeforces.com/contest/1537/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1537/B%20-%20Bad%20Boy/solution.cpp) |
 | 1559A | [Mocha and Math](https://codeforces.com/contest/1559/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1559/A%20-%20Mocha%20and%20Math/solution.cpp) |
 | 1614B | [Divan and a New Project ](https://codeforces.com/contest/1614/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1614/B%20-%20Divan%20and%20a%20New%20Project%20/solution.cpp) |
@@ -145,6 +147,7 @@
 |---|---------|------------|----------|
 | 1440B | [Sum of Medians](https://codeforces.com/contest/1440/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1440/B%20-%20Sum%20of%20Medians/solution.cpp) |
 | 1471A | [Strange Partition](https://codeforces.com/contest/1471/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1471/A%20-%20Strange%20Partition/solution.cpp) |
+| 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.cpp) |
 | 1537B | [Bad Boy](https://codeforces.com/contest/1537/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1537/B%20-%20Bad%20Boy/solution.cpp) |
 | 1543A | [Exciting Bets](https://codeforces.com/contest/1543/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1543/A%20-%20Exciting%20Bets/solution.cpp) |
 | 1567B | [MEXor Mixup](https://codeforces.com/contest/1567/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1567/B%20-%20MEXor%20Mixup/solution.cpp) |
@@ -213,6 +216,7 @@
 | 1374B | [Multiply by 2, divide by 6](https://codeforces.com/contest/1374/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1374/B%20-%20Multiply%20by%202%2C%20divide%20by%206/solution.cpp) |
 | 1440B | [Sum of Medians](https://codeforces.com/contest/1440/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1440/B%20-%20Sum%20of%20Medians/solution.cpp) |
 | 1471A | [Strange Partition](https://codeforces.com/contest/1471/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1471/A%20-%20Strange%20Partition/solution.cpp) |
+| 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.cpp) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
 | 1537B | [Bad Boy](https://codeforces.com/contest/1537/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1537/B%20-%20Bad%20Boy/solution.cpp) |
 | 1543A | [Exciting Bets](https://codeforces.com/contest/1543/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1543/A%20-%20Exciting%20Bets/solution.cpp) |
@@ -259,6 +263,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1471A | [Strange Partition](https://codeforces.com/contest/1471/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1471/A%20-%20Strange%20Partition/solution.cpp) |
+| 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.cpp) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
 | 1543A | [Exciting Bets](https://codeforces.com/contest/1543/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1543/A%20-%20Exciting%20Bets/solution.cpp) |
 | 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1679/A%20-%20AvtoBus/solution.cpp) |
