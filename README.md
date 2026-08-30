@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 87 | 18 |
+| 88 | 18 |
 
 ---
 
@@ -25,7 +25,7 @@
 - [geometry](#geometry) (2)
 - [greedy](#greedy) (41)
 - [implementation](#implementation) (19)
-- [math](#math) (45)
+- [math](#math) (46)
 - [number theory](#number-theory) (12)
 - [sortings](#sortings) (11)
 - [strings](#strings) (7)
@@ -269,6 +269,7 @@
 | 1883C | [Raspberries](https://codeforces.com/contest/1883/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1883/C%20-%20Raspberries/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
+| 2257B | [Gigantomachy](https://codeforces.com/contest/2257/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/2257/B%20-%20Gigantomachy/solution.cpp) |
 
 ### number theory
 
