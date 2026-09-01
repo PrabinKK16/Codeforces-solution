@@ -8,15 +8,14 @@ void solve() {
     cin >> s;
  
     int cnt = 0;
- 
-    stack<char> st;
+    int open = 0;
  
     for (int i = 0; i < n; i++) {
         if (s[i] == ')') {
-            if (!st.empty() && st.top() == '(') st.pop();
+            if (open > 0) open--;
             else cnt++;
         } else {
-            st.push(s[i]);
+            open++;
         }
     }
  
