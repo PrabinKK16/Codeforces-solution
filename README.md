@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 98 | 18 |
+| 99 | 18 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [bitmasks](#bitmasks) (4)
 - [brute force](#brute-force) (21)
 - [combinatorics](#combinatorics) (3)
-- [constructive algorithms](#constructive-algorithms) (23)
+- [constructive algorithms](#constructive-algorithms) (24)
 - [data structures](#data-structures) (3)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (2)
@@ -27,7 +27,7 @@
 - [implementation](#implementation) (21)
 - [math](#math) (50)
 - [number theory](#number-theory) (15)
-- [sortings](#sortings) (13)
+- [sortings](#sortings) (14)
 - [strings](#strings) (9)
 - [two pointers](#two-pointers) (6)
 
@@ -94,6 +94,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1312B | [Bogosort](https://codeforces.com/contest/1312/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1312/B%20-%20Bogosort/solution.cpp) |
 | 1438B | [Valerii Against Everyone](https://codeforces.com/contest/1438/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1438/B%20-%20Valerii%20Against%20Everyone/solution.cpp) |
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.cpp) |
 | 1537B | [Bad Boy](https://codeforces.com/contest/1537/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1537/B%20-%20Bad%20Boy/solution.cpp) |
@@ -309,6 +310,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1312B | [Bogosort](https://codeforces.com/contest/1312/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1312/B%20-%20Bogosort/solution.cpp) |
 | 1438B | [Valerii Against Everyone](https://codeforces.com/contest/1438/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1438/B%20-%20Valerii%20Against%20Everyone/solution.cpp) |
 | 1614B | [Divan and a New Project ](https://codeforces.com/contest/1614/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1614/B%20-%20Divan%20and%20a%20New%20Project%20/solution.cpp) |
 | 1665B | [Array Cloning Technique](https://codeforces.com/contest/1665/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1665/B%20-%20Array%20Cloning%20Technique/solution.cpp) |
