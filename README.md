@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 96 | 18 |
+| 98 | 18 |
 
 ---
 
@@ -23,10 +23,10 @@
 - [dp](#dp) (2)
 - [games](#games) (3)
 - [geometry](#geometry) (2)
-- [greedy](#greedy) (44)
-- [implementation](#implementation) (20)
-- [math](#math) (49)
-- [number theory](#number-theory) (14)
+- [greedy](#greedy) (45)
+- [implementation](#implementation) (21)
+- [math](#math) (50)
+- [number theory](#number-theory) (15)
 - [sortings](#sortings) (13)
 - [strings](#strings) (9)
 - [two pointers](#two-pointers) (6)
@@ -201,12 +201,14 @@
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
+| 2253A | [The Best Card](https://codeforces.com/contest/2253/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/2253/A%20-%20The%20Best%20Card/solution.cpp) |
 | 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.cpp) |
 
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1362A | [Johnny and Ancient Computer](https://codeforces.com/contest/1362/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1362/A%20-%20Johnny%20and%20Ancient%20Computer/solution.cpp) |
 | 1506C | [Double-ended Strings](https://codeforces.com/contest/1506/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1506/C%20-%20Double-ended%20Strings/solution.cpp) |
 | 1624B | [Make AP](https://codeforces.com/contest/1624/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1624/B%20-%20Make%20AP/solution.cpp) |
 | 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.cpp) |
@@ -279,6 +281,7 @@
 | 1883C | [Raspberries](https://codeforces.com/contest/1883/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1883/C%20-%20Raspberries/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
+| 2253A | [The Best Card](https://codeforces.com/contest/2253/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/2253/A%20-%20The%20Best%20Card/solution.cpp) |
 | 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.cpp) |
 | 2257B | [Gigantomachy](https://codeforces.com/contest/2257/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/2257/B%20-%20Gigantomachy/solution.cpp) |
 
@@ -300,6 +303,7 @@
 | 1855B | [Longest Divisors Interval](https://codeforces.com/contest/1855/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1855/B%20-%20Longest%20Divisors%20Interval/solution.cpp) |
 | 1859A | [United We Stand](https://codeforces.com/contest/1859/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1859/A%20-%20United%20We%20Stand/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
+| 2253A | [The Best Card](https://codeforces.com/contest/2253/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/2253/A%20-%20The%20Best%20Card/solution.cpp) |
 
 ### sortings
 
