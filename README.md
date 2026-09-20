@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 102 | 18 |
+| 103 | 18 |
 
 ---
 
@@ -24,12 +24,12 @@
 - [games](#games) (3)
 - [geometry](#geometry) (2)
 - [greedy](#greedy) (46)
-- [implementation](#implementation) (23)
+- [implementation](#implementation) (24)
 - [math](#math) (50)
 - [number theory](#number-theory) (15)
-- [sortings](#sortings) (15)
+- [sortings](#sortings) (16)
 - [strings](#strings) (10)
-- [two pointers](#two-pointers) (6)
+- [two pointers](#two-pointers) (7)
 
 ---
 
@@ -234,6 +234,7 @@
 | 1904A | [Forked!](https://codeforces.com/contest/1904/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1904/A%20-%20Forked!/solution.cpp) |
 | 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
 | 2260A | [Monocarp's Contest](https://codeforces.com/contest/2260/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/2260/A%20-%20Monocarp's%20Contest/solution.cpp) |
+| 2264A | [Rumb Needs a Hand](https://codeforces.com/contest/2264/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/2264/A%20-%20Rumb%20Needs%20a%20Hand/solution.cpp) |
 
 ### math
 
@@ -329,6 +330,7 @@
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 | 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
 | 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.cpp) |
+| 2264A | [Rumb Needs a Hand](https://codeforces.com/contest/2264/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/2264/A%20-%20Rumb%20Needs%20a%20Hand/solution.cpp) |
 
 ### strings
 
@@ -355,6 +357,7 @@
 | 1791C | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1791/C%20-%20Prepend%20and%20Append/solution.cpp) |
 | 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.cpp) |
 | 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.cpp) |
+| 2264A | [Rumb Needs a Hand](https://codeforces.com/contest/2264/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/2264/A%20-%20Rumb%20Needs%20a%20Hand/solution.cpp) |
 
 ---
 
