@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 103 | 18 |
+| 104 | 18 |
 
 ---
 
@@ -21,7 +21,7 @@
 - [data structures](#data-structures) (4)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (2)
-- [games](#games) (3)
+- [games](#games) (4)
 - [geometry](#geometry) (2)
 - [greedy](#greedy) (46)
 - [implementation](#implementation) (24)
@@ -148,6 +148,7 @@
 | 1373B | [01 Game](https://codeforces.com/contest/1373/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1373/B%20-%2001%20Game/solution.cpp) |
 | 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1858/A%20-%20Buttons/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
+| 2263A | [Min Max Game](https://codeforces.com/contest/2263/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/PrabinKK16/Codeforces-solution/blob/HEAD/2263/A%20-%20Min%20Max%20Game/solution.cpp) |
 
 ### geometry
 
